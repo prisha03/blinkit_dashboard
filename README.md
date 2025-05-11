@@ -1,4 +1,4 @@
-![Blinkit Dashboard](blinkit logo.png)
+![Blinkit_Dashboard](blinkit logo.png)
 
 # Blinkit Sales Analytics Dashboard
 This project showcases an interactive sales analytics dashboard built in Power BI for Blinkit, a leading last-minute grocery delivery app in India. The goal of the dashboard is to help business stakeholders understand sales performance across multiple dimensions such as item type, outlet size, location tier, fat content, and customer ratings.
